@@ -1,1 +1,2 @@
 I'm chapter1 of story2
+This story is modified.
